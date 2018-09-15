@@ -1,0 +1,3 @@
+# Python_image_detection
+用python結合opencv套件做影像辨識
+需安裝opencv套件
