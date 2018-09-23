@@ -1,3 +1,7 @@
 # Python_image_detection
-用python結合opencv套件做影像辨識
-需安裝opencv套件
+用python結合opencv套件做人臉辨識
+
+主要透過訓練好的haarcascade_frontalface_default.xml分類器 辨識出人臉並框選
+
+需安裝opencv套件 即可輸入圖片進行臉部辨識
+
